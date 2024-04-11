@@ -1,4 +1,10 @@
 ### Hi there 👋
+ My name is Andy White I'm a Software Engineer experienced in building full-stack applications with Javascript, React/Redux, Node/Express, and SQL/NoSQL databases.
+
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
 
 <!--
 **ComfyClicks/ComfyClicks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

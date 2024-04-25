@@ -1,6 +1,6 @@
 <h1> Hi there 👋 </h1>
 
- <h3> My name is Andy White, I am a Software Engineer experienced in building full-stack applications with Javascript, React/Redux, Node/Express, and SQL/NoSQL databases.
+ <h3 style="text-align: center" > My name is Andy White, I am a Software Engineer experienced in building full-stack applications with Javascript, React/Redux, Node/Express, and SQL/NoSQL databases.
  </h3>
 
 #

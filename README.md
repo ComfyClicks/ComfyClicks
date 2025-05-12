@@ -14,7 +14,7 @@
 <div align="center">
 
 
-Check out my work!
+## Check out my work!
 
 🥐 🍩  🍪 ☕️ 🥐 [Comfy Cafe](https://comfyclicks.github.io/Comfy-Cafe/) 🧁 🍩  🍪 ☕️ 🧁
 
@@ -22,6 +22,7 @@ Check out my work!
 
 📚 🤓 📚 [Live Preview](https://comfyclicks.github.io/Library-App/) 📚 🤩 📚
 
+<br>
 <br>
 
 </div>

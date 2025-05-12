@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<h3> My name is Andy White, I like to build things and learn new technologies. I have experience building full-stack applications with Javascript, React/Redux, Node/Express, and SQL/NoSQL databases </h3>
+<h3> My name is Andy White, I like to build things and learn new technologies. I have experience with Javascript, React/Redux, Node/Express, and SQL/NoSQL databases </h3>
 <br>
 </div>
 

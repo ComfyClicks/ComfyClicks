@@ -20,7 +20,7 @@
 
    🎲   🎮  ✨ [Tic-Tac-Toe](https://comfyclicks.github.io/Tic-Tac-Toe/) ✨  🎮  🎲  🚀
 
-📚 🤓 📚 [Live Preview](https://comfyclicks.github.io/Library-App/) 📚 🤩 📚
+📚 🤓 📚 [Library App](https://comfyclicks.github.io/Library-App/) 📚 🤩 📚
 
 <br>
 <br>

@@ -18,9 +18,12 @@
 
 🥐 🍩  🍪 ☕️ 🥐 [Comfy Cafe](https://comfyclicks.github.io/Comfy-Cafe/) 🧁 🍩  🍪 ☕️ 🧁
 
-   🎲   🎮  ✨ [Tic-Tac-Toe](https://comfyclicks.github.io/Tic-Tac-Toe/) ✨  🎮  🎲  🚀
+🚀  🎲  🎮  ✨ [Tic-Tac-Toe](https://comfyclicks.github.io/Tic-Tac-Toe/) ✨  🎮  🎲  🚀
 
 📚 🤓 📚 [Library App](https://comfyclicks.github.io/Library-App/) 📚 🤩 📚
+
+🪨📄[Rock Paper Scissors]✂️✂️
+https://comfyclicks.github.io/Rock-Paper-Scissors/
 
 <br>
 <br>

@@ -14,7 +14,7 @@
 <div align="center">
 Check out my work!
 
-🥐 🍩 👀 🍪 ☕️ 🥐 [Cofmy Cafe](https://comfyclicks.github.io/Comfy-Cafe/) 🧁 🍩 👀 🍪 ☕️ 🧁
+🥐 🍩  🍪 ☕️ 🥐 [Comfy Cafe](https://comfyclicks.github.io/Comfy-Cafe/) 🧁 🍩  🍪 ☕️ 🧁
 
    🎲   🎮  ✨ [Tic-Tac-Toe](https://comfyclicks.github.io/Tic-Tac-Toe/) ✨  🎮  🎲  🚀
 

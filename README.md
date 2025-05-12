@@ -7,7 +7,7 @@
 <div align="center">
 
 <h3> My name is Andy White, I like to build things and learn new technologies. I have experience building full-stack applications with Javascript, React/Redux, Node/Express, and SQL/NoSQL databases </h3>
-
+<br>
 </div>
 
 
@@ -19,6 +19,10 @@ Check out my work!
 🥐 🍩  🍪 ☕️ 🥐 [Comfy Cafe](https://comfyclicks.github.io/Comfy-Cafe/) 🧁 🍩  🍪 ☕️ 🧁
 
    🎲   🎮  ✨ [Tic-Tac-Toe](https://comfyclicks.github.io/Tic-Tac-Toe/) ✨  🎮  🎲  🚀
+
+📚 🤓 📚 [Live Preview](https://comfyclicks.github.io/Library-App/) 📚 🤩 📚
+
+<br>
 
 </div>
 

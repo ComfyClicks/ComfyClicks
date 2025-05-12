@@ -23,7 +23,7 @@
 📚 🤓 📚 [Library App](https://comfyclicks.github.io/Library-App/) 📚 🤩 📚
 
 🪨📄[Rock Paper Scissors]✂️✂️
-https://comfyclicks.github.io/Rock-Paper-Scissors/
+(https://comfyclicks.github.io/Rock-Paper-Scissors/)
 
 <br>
 <br>

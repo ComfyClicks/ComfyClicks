@@ -12,6 +12,8 @@
 
 
 <div align="center">
+#
+
 Check out my work!
 
 🥐 🍩  🍪 ☕️ 🥐 [Comfy Cafe](https://comfyclicks.github.io/Comfy-Cafe/) 🧁 🍩  🍪 ☕️ 🧁
@@ -19,7 +21,7 @@ Check out my work!
    🎲   🎮  ✨ [Tic-Tac-Toe](https://comfyclicks.github.io/Tic-Tac-Toe/) ✨  🎮  🎲  🚀
 
 </div>
-##
+
 
 <div align="center">
 

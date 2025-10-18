@@ -16,6 +16,9 @@
 
 ## Check out my work!
 
+[✨🌐✨ Visit My Portfolio ✨🌐✨](https://comfyclicks.com)
+
+
 🥐 🍩  🍪 ☕️ 🥐 [Comfy Cafe](https://comfyclicks.github.io/Comfy-Cafe/) 🧁 🍩  🍪 ☕️ 🧁
 
 🚀  🎲  🎮  ✨ [Tic-Tac-Toe](https://comfyclicks.github.io/Tic-Tac-Toe/) ✨  🎮  🎲  🚀
@@ -51,5 +54,5 @@
 <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
-
+<img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
 </div>

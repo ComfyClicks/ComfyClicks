@@ -1,0 +1,30 @@
+<svg width="314" height="32" viewBox="0 0 314 32" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <g id="logo" transform="scale(0.24)">
+      <circle cx="35" cy="35" r="22" stroke="#F7931A" stroke-width="4" fill="none"/>
+      <circle cx="65" cy="35" r="22" stroke="#627EEA" stroke-width="4" fill="none"/>
+      <circle cx="35" cy="65" r="22" stroke="#D4AF37" stroke-width="4" fill="none"/>
+      <circle cx="65" cy="65" r="22" stroke="#9E9E9E" stroke-width="4" fill="none"/>
+    </g>
+  </defs>
+
+  <use href="#logo" x="0" y="4"/>
+  <use href="#logo" x="28" y="4"/>
+  <use href="#logo" x="56" y="4"/>
+  <use href="#logo" x="84" y="4"/>
+
+  <text
+    x="157"
+    y="16"
+    fill="#4493F8"
+    font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif"
+    font-size="17"
+    text-anchor="middle"
+    dominant-baseline="middle"
+  >BarterAid</text>
+
+  <use href="#logo" x="206" y="4"/>
+  <use href="#logo" x="234" y="4"/>
+  <use href="#logo" x="262" y="4"/>
+  <use href="#logo" x="290" y="4"/>
+</svg>

@@ -16,7 +16,12 @@
 
 ## Check out my work!
 
-[✨🌐✨ Visit My Portfolio ✨🌐✨](https://comfyclicks.com)
+<a href="https://comfyclicks.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio-link-dark.svg">
+    <img src="./assets/portfolio-link-light.svg" alt="Visit My Portfolio">
+  </picture>
+</a>
 
 <a href="https://barteraid.com">
   <picture>
@@ -25,13 +30,33 @@
   </picture>
 </a>
 
-🥐 🍩  🍪 ☕️ 🥐 [Comfy Cafe](https://comfyclicks.github.io/Comfy-Cafe/) 🧁 🍩  🍪 ☕️ 🧁
+<a href="https://comfyclicks.github.io/Comfy-Cafe/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/comfy-cafe-link-dark.svg">
+    <img src="./assets/comfy-cafe-link-light.svg" alt="Comfy Cafe">
+  </picture>
+</a>
 
-🚀  🎲  🎮  ✨ [Tic-Tac-Toe](https://comfyclicks.github.io/Tic-Tac-Toe/) ✨  🎮  🎲  🚀
+<a href="https://comfyclicks.github.io/Tic-Tac-Toe/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tic-tac-toe-link-dark.svg">
+    <img src="./assets/tic-tac-toe-link-light.svg" alt="Tic-Tac-Toe">
+  </picture>
+</a>
 
-📚 🤓 📚 [Library App](https://comfyclicks.github.io/Library-App/) 📚 🤩 📚
+<a href="https://comfyclicks.github.io/Library-App/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/library-link-dark.svg">
+    <img src="./assets/library-link-light.svg" alt="Library App">
+  </picture>
+</a>
 
-🪨 📄 ✂️ [Rock Paper Scissors](https://comfyclicks.github.io/Rock-Paper-Scissors/) ✂️ 📄 🪨
+<a href="https://comfyclicks.github.io/Rock-Paper-Scissors/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/rock-paper-scissors-link-dark.svg">
+    <img src="./assets/rock-paper-scissors-link-light.svg" alt="Rock Paper Scissors">
+  </picture>
+</a>
 
 <br>
 <br>

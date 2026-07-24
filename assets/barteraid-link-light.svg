@@ -17,8 +17,9 @@
     x="157"
     y="16"
     fill="#0969DA"
-    font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif"
+    font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji, sans-serif"
     font-size="17"
+    font-weight="400"
     text-anchor="middle"
     dominant-baseline="middle"
   >BarterAid</text>

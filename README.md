@@ -16,47 +16,59 @@
 
 ## Check out my work!
 
+<p align="center">
 <a href="https://comfyclicks.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio-link-dark.svg">
     <img src="./assets/portfolio-link-light.svg" alt="Visit My Portfolio">
   </picture>
 </a>
+</p>
 
+<p align="center">
 <a href="https://barteraid.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/barteraid-link-dark.svg">
     <img src="./assets/barteraid-link-light.svg" alt="BarterAid">
   </picture>
 </a>
+</p>
 
+<p align="center">
 <a href="https://comfyclicks.github.io/Comfy-Cafe/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/comfy-cafe-link-dark.svg">
     <img src="./assets/comfy-cafe-link-light.svg" alt="Comfy Cafe">
   </picture>
 </a>
+</p>
 
+<p align="center">
 <a href="https://comfyclicks.github.io/Tic-Tac-Toe/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/tic-tac-toe-link-dark.svg">
     <img src="./assets/tic-tac-toe-link-light.svg" alt="Tic-Tac-Toe">
   </picture>
 </a>
+</p>
 
+<p align="center">
 <a href="https://comfyclicks.github.io/Library-App/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/library-link-dark.svg">
     <img src="./assets/library-link-light.svg" alt="Library App">
   </picture>
 </a>
+</p>
 
+<p align="center">
 <a href="https://comfyclicks.github.io/Rock-Paper-Scissors/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/rock-paper-scissors-link-dark.svg">
     <img src="./assets/rock-paper-scissors-link-light.svg" alt="Rock Paper Scissors">
   </picture>
 </a>
+</p>
 
 <br>
 <br>

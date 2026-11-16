@@ -1,80 +1,18 @@
-<div align="center">
+# Hi, I’m Andy White 👋
 
-# Hi there 👋
+I’m a full-stack developer based in New York. [Portfolio](https://andywhite.cv/)
 
-</div>
+## BarterAid
 
-<div align="center">
+BarterAid is a live platform for comparing value across currencies, crypto, precious metals, and other assets. It brings together live markets, conversion tools, historical purchasing-power comparisons, and portfolio tracking.
 
-<h3> My name is Andy White, I like to build things and learn new technologies. I have experience with Javascript, React/Redux, Next.js, Tailwind, Zustand, Node/Express, and SQL/NoSQL/Redis databases </h3>
-<br>
-</div>
+I took BarterAid from concept to production, owning the product design, full-stack development, and ongoing operations.
 
+[Live app](https://barteraid.com/) · [Case study](https://andywhite.cv/projects/barteraid.html) · [Architecture](https://andywhite.cv/BarterAid/architecture/)
 
-<div align="center">
+Also see [Comfy Café](https://comfyclicks.github.io/Comfy-Cafe/).
 
-
-## Check out my work!
-
-<p align="center">
-<a href="https://comfyclicks.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio-link-dark.svg">
-    <img src="./assets/portfolio-link-light.svg" alt="Visit My Portfolio">
-  </picture>
-</a>
-</p>
-
-<p align="center">
-<a href="https://barteraid.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/barteraid-link-dark.svg">
-    <img src="./assets/barteraid-link-light.svg" alt="BarterAid">
-  </picture>
-</a>
-</p>
-
-<p align="center">
-<a href="https://comfyclicks.github.io/Comfy-Cafe/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/comfy-cafe-link-dark.svg">
-    <img src="./assets/comfy-cafe-link-light.svg" alt="Comfy Cafe">
-  </picture>
-</a>
-</p>
-
-<p align="center">
-<a href="https://comfyclicks.github.io/Tic-Tac-Toe/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/tic-tac-toe-link-dark.svg">
-    <img src="./assets/tic-tac-toe-link-light.svg" alt="Tic-Tac-Toe">
-  </picture>
-</a>
-</p>
-
-<p align="center">
-<a href="https://comfyclicks.github.io/Library-App/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/library-link-dark.svg">
-    <img src="./assets/library-link-light.svg" alt="Library App">
-  </picture>
-</a>
-</p>
-
-<p align="center">
-<a href="https://comfyclicks.github.io/Rock-Paper-Scissors/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/rock-paper-scissors-link-dark.svg">
-    <img src="./assets/rock-paper-scissors-link-light.svg" alt="Rock Paper Scissors">
-  </picture>
-</a>
-</p>
-
-<br>
-<br>
-
-</div>
-
+## Tech stack
 
 <div align="center">
 
@@ -105,4 +43,10 @@
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
 <img src="https://img.shields.io/badge/Vitest-%236E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white">
 <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" alt="Playwright">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=black" alt="Cloudflare">
 </div>

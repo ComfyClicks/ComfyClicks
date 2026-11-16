@@ -10,7 +10,13 @@ I took BarterAid from concept to production, owning the product design, full-sta
 
 [Live app](https://barteraid.com/) · [Case study](https://andywhite.cv/projects/barteraid.html) · [Architecture](https://andywhite.cv/BarterAid/architecture/)
 
-Also see [Comfy Café](https://comfyclicks.github.io/Comfy-Cafe/).
+## Docketeer 18
+
+I worked with the open-source Docketeer team to expand its Docker image scanner into a tool for investigating individual vulnerabilities, identifying affected packages, and comparing results across saved scans.
+
+[Case study](https://andywhite.cv/projects/docketeer.html) · [GitHub repo](https://github.com/open-source-labs/Docketeer)
+
+Also check out [Comfy Café](https://comfyclicks.github.io/Comfy-Cafe/), a responsive single-page app built with vanilla JavaScript and ES modules.
 
 ## Tech stack
 

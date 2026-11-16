@@ -1,6 +1,6 @@
 # Hi, I’m Andy White 👋
 
-I’m a full-stack developer based in New York. [Portfolio](https://andywhite.cv/)
+I’m a full stack web developer based in New York. [Portfolio](https://andywhite.cv/)
 
 ## BarterAid
 
@@ -15,6 +15,8 @@ I took BarterAid from concept to production, owning the product design, full-sta
 I worked with the open-source Docketeer team to expand its Docker image scanner into a tool for investigating individual vulnerabilities, identifying affected packages, and comparing results across saved scans.
 
 [Case study](https://andywhite.cv/projects/docketeer.html) · [GitHub repo](https://github.com/open-source-labs/Docketeer)
+
+---
 
 Also check out [Comfy Café](https://comfyclicks.github.io/Comfy-Cafe/), a responsive single-page app built with vanilla JavaScript and ES modules.
 

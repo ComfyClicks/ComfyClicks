@@ -1,6 +1,6 @@
 # Hi, I’m Andy White 👋
 
-I’m a full stack web developer based in New York. [Portfolio](https://andywhite.cv/)
+I’m a full stack web developer based in New York City. [Portfolio](https://andywhite.cv/)
 
 ## BarterAid
 
